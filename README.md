@@ -1,3 +1,5 @@
+<img width="1360" height="960" alt="04_DayForge_diagram" src="https://github.com/user-attachments/assets/6831596c-3d63-4446-bb48-022ef3f78eea" />
+[dayforge.json](https://github.com/user-attachments/files/32848448/dayforge.json)
 # DayForge — AI Multi-Agent Workday Automator
 
 A chat-based personal assistant that runs your inbox and calendar through a team of AI agents. You tell it what you need in plain language, a master agent works out what the request involves, and specialist agents for email and calendar carry it out.
